@@ -7,3 +7,4 @@ Class 29/10/2018
 3. Session Destruction (Log out)
 4. Login Verify (For correct password entry pulled from DB)
 5. Page for updating password, city in DB
+6. A page for admin access which shows all users pulled from DB
